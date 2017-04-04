@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491142438/checkpoints/model-100"
+all_model_checkpoint_paths: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491142438/checkpoints/model-100"

@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491141809/checkpoints/model-900"
+all_model_checkpoint_paths: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491141809/checkpoints/model-500"
+all_model_checkpoint_paths: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491141809/checkpoints/model-600"
+all_model_checkpoint_paths: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491141809/checkpoints/model-700"
+all_model_checkpoint_paths: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491141809/checkpoints/model-800"
+all_model_checkpoint_paths: "/Users/ruru/Projects/Chinese-Sentence-Classification/runs/1491141809/checkpoints/model-900"
